@@ -2,7 +2,8 @@
 Visualization redesign using the principles of design
 
 ## Redesign
-![](/images/Race_Relations_Original.png)
+![](/images/Race_Relations_Redesign.png)
 
 ## Original
-![](/images/Race_Relations_Redesign.png)
+![](/images/Race_Relations_Original.png)
+
